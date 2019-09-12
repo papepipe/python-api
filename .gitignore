@@ -30,3 +30,4 @@ htmlcov
 build
 dist
 shotgun_api3.egg-info
+.idea
