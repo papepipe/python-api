@@ -2,7 +2,7 @@
 
 name = 'sg_python_api'
 
-version = "3.1.1.0"
+version = "3.1.1.1"
 
 requires = ['python']
 
